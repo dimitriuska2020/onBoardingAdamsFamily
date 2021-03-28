@@ -69,3 +69,6 @@ Augmented Reality Room (without glasses)
 
 [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * https://www.youtube.com/watch?v=NZde8Xt78Iw with mediapipe
+
+# Insights 
+* https://www.collaborationsuperpowers.com/
